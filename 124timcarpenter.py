@@ -86,6 +86,10 @@ def turnLeft():
 def turnRight():
     nt.right(90)
 
+width = "placeholder"
+wall_distance = "placeholder"
+wall_length = "placeholder"
+
 def drawMaze():
     global wall_distance
     global wall_length
